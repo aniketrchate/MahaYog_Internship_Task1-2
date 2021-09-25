@@ -4,6 +4,7 @@
 - HTML
 - CSS
 - PHP
+  - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 - JS
 
 ### Create a database and execute the following SQL query to create the login table inside your MySQL database
